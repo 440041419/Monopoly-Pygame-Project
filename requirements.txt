@@ -1,0 +1,4 @@
+External library: pygame
+
+(Standard libraries: sys, random, os, json, datetime)
+(constants is a local file of the game)
